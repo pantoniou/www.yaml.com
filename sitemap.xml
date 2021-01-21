@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/about/contributing/</loc>
+<loc>/www.yaml.com/about/contributing/</loc>
 </url>
 <url>
-<loc>/faq/</loc>
+<loc>/www.yaml.com/faq/</loc>
 </url>
 <url>
-<loc>/blog/2020-12/in-the-beginning/</loc>
+<loc>/www.yaml.com/blog/2020-12/in-the-beginning/</loc>
 </url>
 <url>
-<loc>/doc/</loc>
+<loc>/www.yaml.com/doc/</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>/www.yaml.com/</loc>
 </url>
 <url>
-<loc>/resources/</loc>
+<loc>/www.yaml.com/resources/</loc>
 </url>
 </urlset>
